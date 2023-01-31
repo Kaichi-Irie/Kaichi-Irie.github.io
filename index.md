@@ -14,7 +14,7 @@
 * Data Analytics
 
 
-### My Links : [LinkedIn]() / [Github]() / [ASHBi]() / [Kaggle](https://www.kaggle.com/garudakai)
+### My Links : [LinkedIn](https://www.linkedin.com/in/%E6%B5%B7%E5%9C%B0-%E5%85%A5%E6%B1%9F-ab397a259/) / [Github](https://github.com/Kaichi-Irie) / [ASHBi](https://sites.google.com/site/seirin711lee/home) / [Kaggle](https://www.kaggle.com/garudakai)
 
 
 # Sources
