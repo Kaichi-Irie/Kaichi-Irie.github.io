@@ -1,11 +1,12 @@
 # Welcome to Kaichi's Website!
- Thank you for visiting! This web page is for summarizing what I've studied and created.
-## About me
-### Name : Kaichi Irie
-### Affiliation:
+ Thank you for visiting! My name is **Kaichi Irie**. This web page is for summarizing what I've studied and created.
+# About me
+## Affiliation:
 * Faculty of Economics, Kyoto University, Japan.
 * Institute for the Advanced Study of Human Biology ([WPI-ASHBi](https://ashbi.kyoto-u.ac.jp/)), Kyoto University Institute for Advanced Study ([KUIAS](https://kuias.kyoto-u.ac.jp/e/)), Kyoto University, Japan.
-### My Skills and What Interests Me :
+
+
+## My Skills and What Interests Me :
 * Machine Learning
 * Mathematical Modelling
 * Statistics
@@ -14,7 +15,7 @@
 * Data Analytics
 
 
-### My Links : [LinkedIn](https://www.linkedin.com/in/%E6%B5%B7%E5%9C%B0-%E5%85%A5%E6%B1%9F-ab397a259/) / [Github](https://github.com/Kaichi-Irie) / [ASHBi](https://sites.google.com/site/seirin711lee/home) / [Kaggle](https://www.kaggle.com/garudakai)
+## My Links : [LinkedIn](https://www.linkedin.com/in/%E6%B5%B7%E5%9C%B0-%E5%85%A5%E6%B1%9F-ab397a259/) / [Github](https://github.com/Kaichi-Irie) / [ASHBi](https://sites.google.com/site/seirin711lee/home) / [Kaggle](https://www.kaggle.com/garudakai)
 
 
 # Sources
