@@ -25,7 +25,7 @@
 
 
 
-## My Links : [LinkedIn](https://www.linkedin.com/in/%E6%B5%B7%E5%9C%B0-%E5%85%A5%E6%B1%9F-ab397a259/) / [Github](https://github.com/Kaichi-Irie) / [ASHBi](https://sites.google.com/site/seirin711lee/home) / [Kaggle](https://www.kaggle.com/garudakai)
+## My Links : [LinkedIn](https://www.linkedin.com/in/%E6%B5%B7%E5%9C%B0-%E5%85%A5%E6%B1%9F-ab397a259/) / [GitHub](https://github.com/Kaichi-Irie) / [ASHBi](https://sites.google.com/site/seirin711lee/home) / [Kaggle](https://www.kaggle.com/garudakai)
 
 
 
@@ -47,3 +47,5 @@ Note. PDF file will be downloaded when you click the links.
 
 ## Web application
 * [Chat Application using Django](https://github.com/AkaDeMiA-Kyoto/intern_chat_app/tree/Kaichi-Irie)
+
+  <img height="200" src="images/Chat-application1.png"><img height="200" src="images/Chat-application3.png">
